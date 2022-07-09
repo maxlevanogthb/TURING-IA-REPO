@@ -20,7 +20,7 @@ include 'template/header.php'
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">
-                    Registrar nuevo proyecto
+                    Editar proyecto
                 </div>
                 <form class="p-4" method="POST" action="editarProceso.php">
                     <div class="mb-3">
